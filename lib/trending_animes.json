@@ -1,0 +1,53 @@
+[
+  {
+        "title": "Dr.stone",
+        "alternative_title": "Dr Stone",
+        "episodes": 24,
+        "episodes_duration": "23 min.",
+        "start_date": "2019-07-05T07:22Z",
+        "end_date": "2019-12-13T07:22Z",
+        "status": "finished",
+        "genres": [
+          "sci-fi",
+          "shounen",
+          "adventures"
+        ],
+        "image_url": "https://pbs.twimg.com/media/EAvNp_ZXoAUblO4.jpg"
+  },
+  {
+    "title": "Vindland saga",
+    "alternative_title": "Vindland saga",
+    "episodes": 24,
+    "episodes_duration": "23 min.",
+    "start_date": "2019-07-08T07:22Z",
+    "end_date": "2019-12-30T07:22Z",
+    "status": "finished",
+    "genres": [
+      "action",
+      "drama",
+      "seinen",
+      "adventures",
+      "historic"
+    ],
+    "image_url": "https://i1.wp.com/rinconotakula.com/wp-content/uploads/2019/04/1-23.jpg?fit=750%2C1058"
+  },
+  {
+    "title": "Dororo",
+    "alternative_title": "Dororo",
+    "episodes": 24,
+    "episodes_duration": "23 min.",
+    "start_date": "2019-01-08T07:22Z",
+    "end_date": "2019-16-30T07:22Z",
+    "status": "finished",
+    "genres": [
+      "action",
+      "drama",
+      "shounen",
+      "supernatural",
+      "demons",
+      "adventures",
+      "historic"
+    ],
+    "image_url": "https://henaojara.com/wp-content/uploads/2021/05/Dororo.jpg"
+  }
+]
